@@ -1,16 +1,24 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" alt="morphine — software developer" width="100%">
+</picture>
 
-<!--
-**m0rph1num/m0rph1num** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg">
+  <img src="./assets/focus-light.svg" alt="Интерфейсы, разработка и архитектура" width="100%">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Обо мне
+
+Разрабатываю веб- и desktop-приложения. Ценю продуманные интерфейсы, ясную архитектуру и качество реализации.
+
+`TypeScript` · `React` · `Node.js` · `Rust` · `Tauri` · `PostgreSQL`
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/closing-dark.svg">
+  <img src="./assets/closing-light.svg" alt="Less noise. Better software." width="100%">
+</picture>
